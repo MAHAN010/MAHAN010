@@ -11,6 +11,7 @@ Hi there! I'm a passionate programmer with expertise in various technologies. He
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP**
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) **C#**
+- ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) **Markdown**
 
 ### Web Development Frameworks:
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) **FastAPI**
@@ -27,29 +28,40 @@ Hi there! I'm a passionate programmer with expertise in various technologies. He
 - ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) **Illustrator**
 - ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white) **After Effects**
 
-### Markup Language:
-- ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) **Markdown**
-
 ## 📊 My GitHub Stats
 
-### GitHub Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+<div style="background: linear-gradient(to right, #00c6ff, #ff00ff); color: white; padding: 20px; border-radius: 8px; text-align: center;">
+    <h3>GitHub Stats</h3>
+    <p>Check out my GitHub activity below:</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark" />
+</div>
 
 ### Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div style="background: linear-gradient(to right, #00c6ff, #ff00ff); color: white; padding: 20px; border-radius: 8px; text-align: center;">
+    <h3>Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" />
+</div>
 
 ## 🏆 My GitHub Activity
 
-### Contribution Graph:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)
+<div style="background-color: black; color: white; padding: 20px; border-radius: 8px; text-align: center;">
+    <h3>Contribution Graph</h3>
+    <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github" />
+</div>
 
 ### Latest GitHub Repositories:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name)](https://github.com/yourusername/repo-name)
+<div style="background: linear-gradient(to right, #00c6ff, #ff00ff); color: white; padding: 20px; border-radius: 8px; text-align: center;">
+    <h3>Latest Repositories</h3>
+    <a href="https://github.com/yourusername/repo-name">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name" />
+    </a>
+</div>
 
 ## 🔥 GitHub Achievements
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+<div style="background-color: black; color: white; padding: 20px; border-radius: 8px; text-align: center;">
+    <h3>GitHub Streak</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" />
+</div>
